@@ -1,3 +1,4 @@
 import random
-x=random.random()
-print (x)
+y = random.randint(1,10)
+print(y)
+
